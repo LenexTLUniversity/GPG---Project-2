@@ -1,0 +1,110 @@
+ManifestFileVersion: 0
+CRC: 1605574592
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 34c53a0b5be9a23e4350e22194c42005
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2cf119139157c0e0b2d3ed57ccadad04
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 34c53a0b5be9a23e4350e22194c42005
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d32f0c6aab55ea44db2c54319aefe5d5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 93e09843a5c1c344f9a06661baac93cb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2cd87319b6aa4b246b8ee1571a86345b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 051b4df1f81e5e94c8099b57fe38cc9e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b243b572059fea4aa487309090f9b0c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 25877601b9081164b9b64ec159b9a452, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 66e4718957c72bf49beace341a4ad407, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fdf93605f2b0c0246bbbf722e6208efb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4c2153ec97cc51e49b8295bc76a9869e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3e8357f665d26c94eaf3f12590cbb951, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 14e6baf1fc93c0f439f744d88d13fc2d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 32401f479eadeae478483168f96664b8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 05cf15f0f3c811d47b802c309648aed4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0149b5ab8f608c943b260125ac76d875, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f284183bdd6ce64fb1c1a690525d9ae, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 907103a8c27758646b5ab582ad515eaa, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 153
+  Script: {instanceID: 0}
+- Class: 195
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Gamekit3D.MeleeWeapon/AttackPoint
+- AssemblyName: Assembly-CSharp
+  ClassName: Gamekit3D.RandomAudioPlayer/SoundBank
+- AssemblyName: Assembly-CSharp
+  ClassName: Gamekit3D.TargetScanner
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/AssetBundles/Elite Chomper.prefab
+Dependencies: []
